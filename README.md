@@ -1,5 +1,7 @@
 # dl-desafio-vuerouter
 
+## Alumno: Javier Alejandro Castillo Oñatt
+
 ## Project setup
 ```
 npm install
